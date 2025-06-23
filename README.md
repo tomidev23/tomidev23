@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I'm a Software Engineering student at the Department of Informatics Engineering (Class of 2024). I enjoy building web applications with technologies like \*\*PHP (Native & Laravel)\*\*, \*\*React\*\*, \*\*Tailwind CSS\*\*, and integrating them with \*\*MySQL\*\* or \*\*MongoDB\*\* databases.
+I'm a Software Engineering student at the Department of Informatics Engineering (Class of 2024). I enjoy building web applications with technologies like PHP (Native & Laravel), React, Tailwind CSS, and integrating them with MySQL or MongoDB databases.
 
 Currently, I'm actively involved in various campus and independent projects, including MBKM and product showcases. I also serve as the class representative, where I sharpen my leadership and collaboration skills.
 
