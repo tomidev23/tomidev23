@@ -4,20 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I'm a Software Engineering student at Batam Satate Polytechnic I enjoy building web applications with technologies like PHP (Native & Laravel), React, Tailwind CSS, and integrating them with MySQL and MongoDB databases.
-
-Currently, I'm actively involved in various campus and independent projects. I also serve as the class representative, where I sharpen my leadership and collaboration skills.
-
-🔧 Passionate about full-stack development
-
-🚀 Always learning and exploring new technologies
-
-💡 I believe in writing code that solves real-world problems
-
-Let's build something awesome together! 🚀
-
-* 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [tomingselingga2512@gmail.com](mailto:tomingselingga2512@gmail.com)
+I'm a Software Engineering student at Batam Satate Polytechnic 
 
 ### Skills
 
