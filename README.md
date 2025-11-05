@@ -22,6 +22,21 @@ I'm a Software Engineering student at Batam State Polytechnic
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="36" height="36" alt="Arch Linux" title="Arch Linux"/></a>
 </p>
 
+---
+
+### Tools & Environments
+
+<p align="left">
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" title="Figma"/></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" title="Postman"/></a>
+<a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="36" height="36" alt="XAMPP" title="XAMPP"/></a>
+<a href="https://laragon.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="36" height="36" alt="Laragon" title="Laragon"/></a>
+<a href="https://desktop.github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub Desktop" title="GitHub Desktop"/></a>
+<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="36" height="36" alt="WebStorm" title="WebStorm"/></a>
+</p>
+
+---
+
 ### Socials
 
 <p align="left">
