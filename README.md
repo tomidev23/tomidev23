@@ -18,7 +18,7 @@ Languages : Lua, JavaScript, PHP, Dart
 Backend   : Laravel
 Database  : MariaDB, MongoDB
 ───────────────────────────────────────────────
-Workflow  : Shell Scripting, Automation
+Workflow  : Shell, Scripting, Automation
 Contact   : tomingselingga2512@gmail.com
 ───────────────────────────────────────────────
 ```
