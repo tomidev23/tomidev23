@@ -1,63 +1,44 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) There.
-=======================================================================================================================================
+### Hey, I'm Tomi
 
-Web developer
--------------
+A **Fullstack Development** passionate about building **scalable systems**,  crafting **smooth developer workflows**, writing **scripts that automate life**,  and contributing to **open source**.
 
-I'm a Software Engineering student at Batam State Polytechnic 
+- Exploring the depths of **Backend Development & Frontend Development** and **System** 
+<!-- - Obsessively customizing my [dotfiles](https://github.com/ad1822/hyprdots) and [scripts](https://github.com/ad1822/dotsh)
+- I use [Neovim](https://github.com/ad1822/nvim.conf) btw. can’t quit though.-->
 
-### Tech Stack
 
-<p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap"/></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" title="Laravel"/></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" title="Flutter"/></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" title="Dart"/></a>
-<a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="36" height="36" alt="Arch Linux" title="Arch Linux"/></a>
+
+```bash
+modomkuy@arch-btw / ~>
+───────────────────────────────────────────────
+OS        : Linux 6.16.7-arch1-1
+Editor    : VScode 
+Languages : Lua, JavaScript, PHP, Dart
+───────────────────────────────────────────────
+Backend   : Laravel
+Database  : MariaDB, MongoDB
+───────────────────────────────────────────────
+Workflow  : Shell Scripting, Automation
+Contact   : tomingselingga2512@gmail.com
+───────────────────────────────────────────────
+```
+
+### Dev workflow tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,laravel,arch,go,bash,postman,react,nodejs,flutter,figma," />
+  </a>
 </p>
 
----
+![lualine](assets/lualine-2.png)
 
-### Tools & Environments
 
-<p align="left">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" title="Figma"/></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" title="Postman"/></a>
+ <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card">
+    <img height="155" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ad1822&border_color=45475a&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&hide_border=false" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="155" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ad1822&hide_current_streak=true&hide_longest_streak=false&theme=catppuccin-mocha&date_format=[Y.]n.j&mode=weekly&ring=AF90D7&stroke=45475a&fire=AF90D7&border=45475a" />
+  </a>
 </p>
-
----
-
-### Socials
-
-<p align="left">
-<a href="https://www.github.com/tomidev23" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" />
-</picture>
-</a>
-<a href="http://www.instagram.com/tomi.lingga_" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" />
-</picture>
-</a>
-<a href="https://www.linkedin.com/in/tomingselingga" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-</picture>
-</a>
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
-</picture>
