@@ -1,6 +1,6 @@
 ### Hey, I'm Tomi
 
-A **Fullstack Development** passionate about building **scalable systems**,  crafting **smooth developer workflows**, writing **scripts that automate life**,  and contributing to **open source**.
+A **Software engineer** passionate about building **scalable systems**,  crafting **smooth developer workflows**, writing **scripts that automate life**,  and contributing to **open source**.
 
 - Exploring the depths of **Backend Development & Frontend Development** and **System** 
 <!-- - Obsessively customizing my [dotfiles](https://github.com/ad1822/hyprdots) and [scripts](https://github.com/ad1822/dotsh)
