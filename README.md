@@ -58,4 +58,6 @@ I'm a Software Engineering student at Batam State Polytechnic
 </picture>
 </a>
 </p>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</picture>
