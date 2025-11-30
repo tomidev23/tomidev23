@@ -13,7 +13,7 @@ modomkuy@arch-btw / ~>
 ───────────────────────────────────────────────
 OS        : Linux 6.16.7-arch1-1
 Editor    : VScode 
-Languages : Lua, JavaScript, PHP, Dart
+Languages : JavaScript, PHP, Dart
 ───────────────────────────────────────────────
 Backend   : Laravel
 Database  : MariaDB, MongoDB
