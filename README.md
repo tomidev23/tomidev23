@@ -1,17 +1,14 @@
 ### Hey, I'm Tomi
 
-A **Software engineer** passionate about building **scalable systems**,  crafting **smooth developer workflows**, writing **scripts that automate life**,  and contributing to **open source**.
-
+A **Software engineering** passionate about building **scalable systems**,  crafting **smooth developer workflows**, writing **scripts that automate life**,  and contributing to **open source**.
 - Exploring the depths of **Backend Development & Frontend Development** and **System** 
 <!-- - Obsessively customizing my [dotfiles](https://github.com/ad1822/hyprdots) and [scripts](https://github.com/ad1822/dotsh)
 - I use [Neovim](https://github.com/ad1822/nvim.conf) btw. can’t quit though.-->
 
-
-
 ```bash
 modomkuy@arch-btw / ~>
 ───────────────────────────────────────────────
-OS        : Linux 6.16.7-arch1-1
+OS        : Linux 6.17.9-arch1-1
 Editor    : VScode 
 Languages : JavaScript, PHP, Dart
 ───────────────────────────────────────────────
@@ -23,11 +20,11 @@ Contact   : tomingselingga2512@gmail.com
 ───────────────────────────────────────────────
 ```
 
-### Dev workflow tools
+### Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,laravel,arch,docker,bash,postman,react,nodejs,flutter,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,laravel,arch,linux,bash,postman,react,nodejs,flutter,html" />
   </a>
 </p>
 
