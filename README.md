@@ -28,7 +28,7 @@ Contact   : tomingselingga2512@gmail.com
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,laravel,arch,linux,bash,postman,react,nodejs,flutter,html" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,laravel,arch,linux,postman,react,nodejs,flutter" />
   </a>
 </p>
 
