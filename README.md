@@ -33,9 +33,7 @@ Contact   : tomingselingga2512@gmail.com
 </p>
 
 
-# Stats 📈
-
-## Stats 📈
+### Stats
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=tomidev23&show_icons=true&theme=github_dark" height="165"/>
