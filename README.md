@@ -35,7 +35,7 @@ Contact   : tomingselingga2512@gmail.com
 
 # Stats 📈
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=tomidev23&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=tomidev23&theme=github_dark)
+<!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=tomidev23&theme=github_dark) -->
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tomidev23&layout=compact&theme=github_dark)
 <!-- Streak API-->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spelljinxer&theme=dracula" alt="mystreak"/> -->
