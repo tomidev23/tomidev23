@@ -33,6 +33,15 @@ Contact   : tomingselingga2512@gmail.com
 </p>
 
 
+# Stats 📈
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=tomidev23&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=tomidev23&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tomidev23&layout=compact&theme=github_dark)
+<!-- Streak API-->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spelljinxer&theme=dracula" alt="mystreak"/> -->
+
+</div>
+
  <!-- <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card">
     <img height="155" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tomidev23&border_color=45475a&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&hide_border=false" />
