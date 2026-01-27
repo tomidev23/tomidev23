@@ -28,17 +28,17 @@ Contact   : tomingselingga2512@gmail.com
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,laravel,arch,linux,postman,react,nodejs,flutter" />
+    <img src="https://skillicons.dev/icons?i=github,laravel,arch,postman,react,nodejs,flutter,nextjs" />
   </a>
 </p>
 
 
-### Stats
+<!-- ### Stats
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=tomidev23&show_icons=true&theme=github_dark" height="165"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tomidev23&layout=compact&theme=github_dark" height="165"/>
-</p>
+</p> -->
 
 <!-- Streak API-->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spelljinxer&theme=dracula" alt="mystreak"/> -->
