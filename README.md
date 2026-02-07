@@ -33,9 +33,9 @@ Contact   : tomingselingga2512@gmail.com
 </p>
 
 
-<!-- ### Stats
+ ### Stats
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=tomidev23&show_icons=true&theme=github_dark" height="165"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tomidev23&layout=compact&theme=github_dark" height="165"/>
 </p> -->
@@ -45,9 +45,9 @@ Contact   : tomingselingga2512@gmail.com
 
 </div>
 
- <!-- <p align="center">
+  <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card">
     <img height="155" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tomidev23&border_color=45475a&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&hide_border=false" />
   </a>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tomidev23&theme=onedark-duo" alt="GitHub Streak" /></a>
-</p> -->
+</p> 
