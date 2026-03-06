@@ -12,7 +12,7 @@ OS        : Linux 6.17.9-arch1-1
 Editor    : VScode, Vim
 Languages : JavaScript, PHP, Dart
 ───────────────────────────────────────────────
-Backend   : Laravel
+Backend   : Laravel,Python, Javascript 
 Database  : MariaDB, MongoDB
 ───────────────────────────────────────────────
 Workflow  : Shell, Scripting, Automation
