@@ -12,8 +12,8 @@ OS        : Linux 6.17.9-arch1-1
 Editor    : VScode, Vim
 Languages : JavaScript, PHP, Dart
 ───────────────────────────────────────────────
-Backend   : Laravel,Python, Javascript 
-Database  : MariaDB, MongoDB
+Backend   : Laravel,Python,Javascript 
+Database  : MariaDB,MongoDB,Postgres
 ───────────────────────────────────────────────
 Workflow  : Shell, Scripting, Automation
 Contact   : tomingselingga2512@gmail.com
