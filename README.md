@@ -9,7 +9,7 @@ A **Software engineering** passionate about building **scalable systems**,  craf
 modomkuy@arch-btw / ~>
 ───────────────────────────────────────────────
 OS        : Linux 6.17.9-arch1-1
-Editor    : VScode, Vim
+Editor    : VScode, Vim, NeoVim
 Languages : JavaScript, PHP, Dart
 ───────────────────────────────────────────────
 Backend   : Laravel,Python,Javascript 
