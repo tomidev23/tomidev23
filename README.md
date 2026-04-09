@@ -12,7 +12,7 @@ OS        : Linux  6.19.11-arch1-1
 Editor    : VScode, Vim, NeoVim
 Languages : JavaScript, PHP, Dart
 ───────────────────────────────────────────────
-Backend   : Laravel,Python,Javascript 
+Backend   : PHP,Python,Javascript 
 Database  : MariaDB,MongoDB,Postgres
 ───────────────────────────────────────────────
 Workflow  : Shell, Scripting, Automation
