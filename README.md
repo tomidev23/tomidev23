@@ -33,16 +33,6 @@ Contact   : tomingselingga2512@gmail.com
 </p>
 
 
- <!-- ### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=tomidev23&show_icons=true&theme=github_dark" height="165"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tomidev23&layout=compact&theme=github_dark" height="165"/>
-</p> 
-
-<!-- Streak API-->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spelljinxer&theme=dracula" alt="mystreak"/> -->
-
 </div>
 
 <!--  <p align="center">
