@@ -8,7 +8,8 @@ A **Software engineering** passionate about building **scalable systems**,  craf
 ```bash
 modomkuy@arch-btw / ~>
 ───────────────────────────────────────────────
-OS        : Linux  6.19.11-arch1-1
+OS        : Arch Linux
+Kernel    : 7.1.2-arch3-1
 Editor    : VScode, Vim, NeoVim
 Languages : JavaScript, PHP, Dart
 ───────────────────────────────────────────────
