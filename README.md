@@ -25,7 +25,7 @@ Contact   : tomingselingga2512@gmail.com
   <img src="./img/cat2.gif" alt="cat" width="150">
 </p>
 
-### RRWRR
+### RRWRRR
 
 <p align="center">
   <a href="https://skillicons.dev">
