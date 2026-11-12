@@ -9,11 +9,10 @@ A **Software engineering** passionate about building **scalable systems**,  craf
 modomkuy@arch-btw / ~>
 ───────────────────────────────────────────────
 OS        : Arch Linux
-Kernel    : 7.1.2-arch3-1
+Kernel    : 7.2.14-arch1-1
 Editor    : VScode, Vim, NeoVim
 Languages : JavaScript, PHP, Dart
 ───────────────────────────────────────────────
-Backend   : PHP,Python,Javascript 
 Database  : MariaDB,MongoDB,Postgres
 ───────────────────────────────────────────────
 Workflow  : Shell, Scripting, Automation
@@ -29,7 +28,7 @@ Contact   : tomingselingga2512@gmail.com
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,arch,postman,react,javascript,flutter,nextjs,python" />
+    <img src="https://skillicons.dev/icons?i=laravel,arch,postman,react,flutter,nextjs,python" />
   </a>
 </p>
 
